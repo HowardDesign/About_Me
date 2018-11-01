@@ -1,10 +1,10 @@
-洪榮豪 （Marcus Hung）
+洪榮豪 （Howard Hung）
 
 Birthday : 12/10/1981
 Education : 崑山科技大學 - 視覺傳達設計系
 Personal Website : https://github.com/Marcus2017
 Location : 台中市
-E-Mail : marcushung668@gmail.com
+E-Mail : haw175@gmail.com
 Mobile : 0985714915
 
 工作經驗：
