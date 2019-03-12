@@ -26,6 +26,6 @@ Mobile : 0985-714915<br>
 * Javascript/Framework
 // 使用 SASS 規劃 Web layout 架構。
 
-<p>對原生 Javascript 有基礎的了解，目前較常使用 Jquery 做開發與練習。
-BootStrap - 在之前的公司有用過 BootStrap 幫客戶開發網站。
+<p>對原生 Javascript 有基礎的了解，目前較常使用 Jquery 做開發與練習。<br>
+BootStrap - 在之前的公司有用過 BootStrap 幫客戶開發網站。<br>
 Jquery - 會使用 Jquery 做動畫效果套用在網頁上。</p>
