@@ -23,7 +23,9 @@ Mobile : 0985-714915<br>
 * 瞭解 HTML 語意。
 * 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
 * 瞭解 CSS3 的 Animate、transform 跟 transition。
-* Javascript/Framework
-// 使用 SASS 規劃 Web layout 架構。
+* Javascript/Framework <br>
+<p>
+// 使用 SASS 規劃 Web layout 架構。<br>
 // 使用 Jquery 做互動開發效果，Javascript有一定的了解。<br>
-// 使用 BootStrap 制定layout 幫客戶開發網站。</p>
+// 使用 BootStrap 制定layout 幫客戶開發網站。<br>
+// 近期使用過Vue框架制定後台，功能"新增、刪除、修改、查詢"</p>
